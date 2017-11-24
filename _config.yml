@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/open?id=1IlZuzZTvobzX39QLkRAEV2j6RNy9Jt6l
+resume-external: false
+resume-url: assets/docs/SidharthSindhra.pdf
 
 url: https://schrodinger1926.github.io/
 # your url: http://USERNAME.github.io
